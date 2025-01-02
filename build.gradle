@@ -1,0 +1,20 @@
+plugins {
+    id 'java'
+    id 'application'
+}
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    implementation 'org.jfree:jfreechart:1.5.3'
+    implementation 'mysql:mysql-connector-java:8.0.27'
+}
+
+application {
+    mainClass = 'StudentGradeManagementSystem'
+}
+
+sourceCompatibility = '1.8'
+targetCompatibility = '1.8' 
