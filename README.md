@@ -25,32 +25,38 @@
 
 ## 效果展示
 ### 登录界面
-<img src="https://github.com/user-attachments/assets/371180a8-3e44-45a3-88a6-a311b47caafd" width="500" height="300" />
+<div style="text-align: center;">
+  <img src="https://github.com/user-attachments/assets/371180a8-3e44-45a3-88a6-a311b47caafd" width="500" height="300" />
+</div>
 
 ### 学生功能
-<img src="https://github.com/user-attachments/assets/5cc41cc5-0d92-4ba2-a6a6-96970def0b42" width="500" height="300" />
-<img src="https://github.com/user-attachments/assets/372bec8a-7983-4799-b487-d0cf610646d2" width="500" height="300" />
-<img src="https://github.com/user-attachments/assets/09496679-058e-46cd-a2de-2260b908b933" width="500" height="300" />
-<img src="https://github.com/user-attachments/assets/e6f6b509-6323-4de2-87b5-3940fdeb1200" width="500" height="300" />
+<div style="text-align: center;">
+  <img src="https://github.com/user-attachments/assets/5cc41cc5-0d92-4ba2-a6a6-96970def0b42" width="500" height="300" />
+  <img src="https://github.com/user-attachments/assets/372bec8a-7983-4799-b487-d0cf610646d2" width="500" height="300" />
+  <img src="https://github.com/user-attachments/assets/09496679-058e-46cd-a2de-2260b908b933" width="500" height="300" />
+  <img src="https://github.com/user-attachments/assets/e6f6b509-6323-4de2-87b5-3940fdeb1200" width="500" height="300" />
+</div>
 
 ### 教师功能
-<img src="https://github.com/user-attachments/assets/a60b52ee-1d6d-4e27-bb7c-d20dff3da0ed" width="500" height="300" />
-<img src="https://github.com/user-attachments/assets/d11bcd9d-7b56-47af-b0c0-a2693673dcec" width="500" height="300" />
-<img src="https://github.com/user-attachments/assets/f43a1de5-e013-44d0-a2a9-a3d83b13d796" width="500" height="300" />
-<img src="https://github.com/user-attachments/assets/58fe28c3-8652-4139-a4aa-d00bdcc139d6" width="500" height="300" />
-<img src="https://github.com/user-attachments/assets/7996da41-714b-4d7c-8594-bfdf26074728" width="500" height="300" />
-<img src="https://github.com/user-attachments/assets/72d67d03-9c6e-4ac1-bfcf-f4a4851d29ca" width="500" height="300" />
-<img src="https://github.com/user-attachments/assets/7da97a4d-26ea-4597-bc44-ba777d15df37" width="500" height="300" />
-<img src="https://github.com/user-attachments/assets/5a92d942-4e1b-4a14-bfef-0c16145a240e" width="500" height="300" />
+<div style="text-align: center;">
+  <img src="https://github.com/user-attachments/assets/a60b52ee-1d6d-4e27-bb7c-d20dff3da0ed" width="500" height="300" />
+  <img src="https://github.com/user-attachments/assets/d11bcd9d-7b56-47af-b0c0-a2693673dcec" width="500" height="300" />
+  <img src="https://github.com/user-attachments/assets/f43a1de5-e013-44d0-a2a9-a3d83b13d796" width="500" height="300" />
+  <img src="https://github.com/user-attachments/assets/58fe28c3-8652-4139-a4aa-d00bdcc139d6" width="500" height="300" />
+  <img src="https://github.com/user-attachments/assets/7996da41-714b-4d7c-8594-bfdf26074728" width="500" height="300" />
+  <img src="https://github.com/user-attachments/assets/72d67d03-9c6e-4ac1-bfcf-f4a4851d29ca" width="500" height="300" />
+  <img src="https://github.com/user-attachments/assets/7da97a4d-26ea-4597-bc44-ba777d15df37" width="500" height="300" />
+  <img src="https://github.com/user-attachments/assets/5a92d942-4e1b-4a14-bfef-0c16145a240e" width="500" height="300" />
+</div>
 
 ### 管理员功能
-<img src="https://github.com/user-attachments/assets/feb29c16-ec7b-4e49-98c0-75fe055a20d2" width="500" height="300" />
-<img src="https://github.com/user-attachments/assets/68d69d07-2d5c-4322-9577-b48c850e2eef" width="500" height="300" />
-<img src="https://github.com/user-attachments/assets/c3fc23c3-7503-4256-882a-8dffc64b29e5" width="500" height="300" />
-<img src="https://github.com/user-attachments/assets/035a366d-85ce-4a8c-9d15-74097622af75" width="500" height="300" />
-<img src="https://github.com/user-attachments/assets/afa20a4b-1f80-4754-8ca9-ca79332d8268" width="500" height="300" />
-
-
+<div style="text-align: center;">
+  <img src="https://github.com/user-attachments/assets/feb29c16-ec7b-4e49-98c0-75fe055a20d2" width="500" height="300" />
+  <img src="https://github.com/user-attachments/assets/68d69d07-2d5c-4322-9577-b48c850e2eef" width="500" height="300" />
+  <img src="https://github.com/user-attachments/assets/c3fc23c3-7503-4256-882a-8dffc64b29e5" width="500" height="300" />
+  <img src="https://github.com/user-attachments/assets/035a366d-85ce-4a8c-9d15-74097622af75" width="500" height="300" />
+  <img src="https://github.com/user-attachments/assets/afa20a4b-1f80-4754-8ca9-ca79332d8268" width="500" height="300" />
+</div>
 
 
 
